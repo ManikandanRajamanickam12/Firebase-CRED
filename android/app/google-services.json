@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183874615110",
+    "project_id": "credoperation",
+    "storage_bucket": "credoperation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183874615110:android:ce5a624b4a3f7491b11747",
+        "android_client_info": {
+          "package_name": "com.example.credope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183874615110-jl7ismcstvv5au28at33o5ok4jna3f0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXutpscvFajGDJRnGLBKDS4Xy1ALJaJ-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183874615110-jl7ismcstvv5au28at33o5ok4jna3f0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
